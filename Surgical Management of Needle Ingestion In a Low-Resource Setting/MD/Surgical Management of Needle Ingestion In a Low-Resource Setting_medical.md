@@ -14,9 +14,10 @@ Foreign bodies typically  become  lodged  at  the narrowest anatomical constrict
 
 An  11-year-old  boy  was  brought  to  the  emergency department within 30 minutes of ingestion of a sewing needle after being dared by his peers to do so. The child was crying due to the pain, however, no history of bleeding from the neck or coughing of blood. General examination revealed a child in distress. Inspection of the neck showed  a  protruding  object  on  the  anterior  aspect (Figure 1).  Lateral  radiograph  of  the  neck  was  obtained and showed the position of the needle, that was oriented antero-posteriorly (Figure 2).
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Surgical%20Management%20of%20Needle%20Ingestion%20In%20a%20Low-Resource%20Setting/Figures/Figure%201.png)
 Figure 1: Photo of 11-year old boy with protruding object in the anterior neck.
 
-
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Surgical%20Management%20of%20Needle%20Ingestion%20In%20a%20Low-Resource%20Setting/Figures/Figure%202.png)
 Figure 2: Radiograph of the 11-year old boy showing needle lodged antero-posteriorly in the anterior neck.
 
 **Management**
@@ -29,6 +30,7 @@ The guardian signed an informed consent for an emergency surgery, which was done
 
 An  18-year-old  woman  was  brought  into  the  Accident and Emergency after 48 hours of ingesting a safety pin. She was a fashion designer who was working and talking whilst the safety pin was in her mouth then she suddenly swallowed  the  pin.  She  presented  with  a  feeling  of foreign  body  sensation  and  sharp  pain  in  her  throat which was not radiating, no history of vomiting but she tried  inducing  one.  No  dysphagia  or  odynophagia.  No difficulty in breathing, choking spells and hoarseness of voice. She had no significant medical or surgical history except  for  chronic  dyspepsia.  Other  than  generalized neck  tenderness,  her  clinical  examination  was  unremarkable, and her vital signs were within normal limits. lateral Radiograph of the neck was taken, it revealed a safety pin in a transverse position (Figure 3).
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Surgical%20Management%20of%20Needle%20Ingestion%20In%20a%20Low-Resource%20Setting/Figures/Figure%203.png)
 Figure 3: Radiograph of the 18-year old lady showing needle in the anterior neck.
 
 **Management**
