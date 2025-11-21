@@ -22,6 +22,12 @@ This is a 32-year-old female patient who complained of typical  chest  pain  at 
 Percutaneous coronary angiography showed a large dominant, ectatic and tortuous RCA vessel, with numerous large collaterals to the LAD shunting to the PA. LMCA origin  was  normal  and  bifurcating  into  left  circumflex (L.Cx) and small proximal LAD stump. The LAD was also dilated  and  abnormally  originating  from  the  main  PA trunk.
 Computerized  tomography  coronary  angiography (CTCA)  confirmed  the  diagnosis  of  anomalous  LAD arising from the PA with normal origins of RCA and L.Cx. (Figure 1 a,b). The case was discussed by the cardiac team and a decision was taken to perform LIMA-to-LAD and disconnect the abnormal origin of LAD from the PA.
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%201%20a.png)
+*Figure 1: a*
+
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%201%20b%20.png)
+*Figure 1: b*
+
 Figure 1 (a,b): 3-D reconstruction of a coronary CT angiogram showing the LAD arising directly from the main pulmonary artery rather than the left coronary sinus.
 
 
@@ -29,12 +35,14 @@ Figure 1 (a,b): 3-D reconstruction of a coronary CT angiogram showing the LAD ar
 
 Through median sternotomy, the left internal mammary artery was harvested, followed by full heparinization  and  commencement  of  cardiopulmonary  bypass. The operative findings confirmed large ectatic LAD (3-4 mm)  arising  from  the  left  lateral  aspect  of  the  main pulmonary artery trunk with palpable thrill over the PA (Figure 2). The RCA was large and tortuous giving numerous large collaterals to LAD.
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%202.png)
 Figure 2: Abnormal LAD arising from pulmonary artery (PA).
 
 
 
 Trial of off-pump coronary artery bypass grafting (CABG) was  aborted  due  to  torrential  collateral  flow  which rendered  visibility  extremely  difficult  and  necessitated conversion  to  on-pump,  beating  heart  LIMA-to-LAD anastomis, that was performed using 7-0 Prolene (Figure 3).
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%203.png)
 Figure 3: LIMA to ALADAPA  done on pump beating heart.
 
 
@@ -44,6 +52,11 @@ The  origin  of  LAD  from  PA  was  ligated  using  double armed 3-0  proline  
 One month later, on the 1st  postoperative  visit,  the patient  reported  marked  improvement  of  symptoms with  no  angina  at  all.  CTCA  was  done  6  weeks  after surgery and showed patent LIMA to LAD with good distal run off and no shunt to PA (Figure 4 a and b).
 
 
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%204%20a.png) 
+*Figure 4: a*
+
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Anomalous%20Left%20Anterior%20Descending%20Coronary%20Artery%20Arising%20from%20Pulmonary%20Artery%20(ALADAPA)/Figure/Figure%204%20b.png)
+*Figure 4: b*
 
 Figure 4: a, b Shows patent LIMA to LAD 6 weeks post-operatively.
 
