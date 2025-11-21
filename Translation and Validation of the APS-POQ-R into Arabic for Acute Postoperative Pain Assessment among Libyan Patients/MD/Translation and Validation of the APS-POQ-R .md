@@ -138,4 +138,7 @@ The authors declare no conflicts of interest.
 
 ### Appendix A
 
-Insert Two Figures that make up Appendix A
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Translation%20and%20Validation%20of%20the%20APS-POQ-R%20into%20Arabic%20for%20Acute%20Postoperative%20Pain%20Assessment%20among%20Libyan%20Patients/Figures/Appendix%20A.png)
+
+
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM\_VOL1\_ISSUE2/refs/heads/main/Translation%20and%20Validation%20of%20the%20APS-POQ-R%20into%20Arabic%20for%20Acute%20Postoperative%20Pain%20Assessment%20among%20Libyan%20Patients/Figures/2nd.png)
