@@ -1,0 +1,60 @@
+
+Healthcare systems vary from one country to another according to economic, cultural, and technical considerations, but more importantly, according to political structures and ideologies. Reinhart argues, in a recent article, that public health professionals should be more political than what they are now rather than less.<sup style="color:#44A6B2;">1 </sup> In fact, we can see healthcare is inherently political, as decisions regarding infrastructure, dietary and different life styles, taxation, social welfare, and public health investment influence who receives care and who is left behind.
+
+
+#### The Dual Nature of Healthcare Systems
+
+Healthcare systems exhibit at least a dual structure within it with two divisions functioning differently. There is a public health component of the health system that ensures population-wide access to preventive and basic medical services, and an individualized medical service component that caters to individualized medical care. While the later requires a great deal of training and technology and serves fewer people, the first capitalizes on delivering basic services on a mass scale. Despite the leadership of the United States in advanced medical technologies, its public health system is "relatively" weak and lags behind many nations having less technology and healthcare resources but with more comprehensive healthcare coverage in many important areas. As a result, these nations' health indicators are far better than those of the United States.<sup style="color:#44A6B2;">2 </sup>
+
+Libya, historically, followed a different trajectory. Beginning in the 1960s and intensifying in the 1970s, the country prioritized an expansive public health sector, ensuring broad access to medical services. However, high-quality individualized medical care did not match that trajectory. This mass-scale approach was successful in addressing fundamental health needs such as vaccination and free care for acute and chronic illnesses, but neglected the critical aspects of quality and the highly organized professionalism necessary for advanced medical services. In earlier decades, Libya demonstrated significant public health achievements, with health indicators consistently outperforming those of Egypt, Tunisia, and Jordan. Nevertheless, deficiencies in individualized care prompted a growing number of Libyans to seek medical services abroad. The superior quality of hospital care and the development of health tourism in neighboring countries, such as Egypt, Tunisia, and Jordan, further accelerated this trend. Over time, the Libyan public health sector faced increasing competition from regional private healthcare providers, a dynamic that progressively weakened the domestic system. With the rising role of the private sector in recent years, driven by political and economic factors, there has been a shift away from the traditional public health model, further jeopardizing healthcare access for the poor and middle class, exacerbating health disparities, and threatening social stability.<sup style="color:#44A6B2;">3 </sup> This unfortunate scenario has persisted, with comprehensive health indicators, including the Universal Health Coverage (UHC) Index, increasingly favoring neighboring countries over Libya.
+
+
+#### The Role of Politics in Healthcare Design
+
+Successful healthcare systems in the world are in fact devised by politicians rather than by medical professionals or public health specialists. The best two examples of that are Otto von Bismarck’s insurance-based system in Germany, and William Beveridge’s National Health Service (NHS) in the post-war UK.<sup style="color:#44A6B2;">4,5 </sup> These systems, both designed with political foresight, have provided sustainable and equitable healthcare solutions. In contrast, the United States’ reliance on a market-driven approach has resulted in systemic deficiencies in public health, revealing the structural political defects inherent in its model.<sup style="color:#44A6B2;">1 </sup> The political resistance to universal healthcare reforms in the United States is a great reminder of these challenges. Congressional opposition to President Clinton’s health- care initiative, largely on ideological grounds that equated universal healthcare with “socialism or communism,” underscores the entrenched barriers to change.<sup style="color:#44A6B2;">6 </sup> The argument that healthcare is not a commodity but a fundamental right is well recognized globally, and there is an increasing recognition that a purely market-driven model leads to inefficiencies and disparities—what economists referred to in the term Market Failure.<sup style="color:#44A6B2;">7 </sup> 
+
+As Eric Reinhart argues, the failure of the U.S. health-care system is not due to excessive political involvement but rather to a depoliticization of public health.<sup style="color:#44A6B2;">1 </sup> By treating healthcare as a private good rather than a social responsibility, the U.S. has fostered worsening health outcomes, social divisions, and an increasing gap between public and private health services. Similarly, Libya’s move toward privatization risks exacerbating inequities, as market-driven healthcare often excludes the most vulnerable populations.<sup style="color:#44A6B2;">3 </sup> These population groups in Libya are increasing at an alarming pace.
+
+
+
+#### Policy, Politics, Political Savvy, and Health Diplomacy
+
+Understanding the distinction between policy, politics, political savvy, and health diplomacy is crucial for designing effective healthcare systems. Policy refers to the formal principles, rules, and guidelines that shape healthcare delivery. Well-crafted health policies can ensure equitable access, improve efficiency, and enhance health outcomes. However, policies do not exist in a vacuum—they are shaped by politicians.<sup style="color:#44A6B2;">8 </sup>
+
+Politics is the process through which policies are debated, formulated, and implemented. It involves negotiation, conflict resolution, and power dynamics between a variety of stakeholders, including governments, private entities, human rights groups and civil society. Political ideologies and interests often dictate the direction of healthcare policies, as seen in the U.S., where market-driven ideologies have obstructed universal healthcare reforms.<sup style="color:#44A6B2;">6 </sup>
+
+Political savvy is the ability to navigate these complexities effectively. Healthcare professionals and policy-makers must develop strategic awareness of political landscapes to advocate for beneficial reforms. Political astuteness enables leaders to frame health issues compellingly, build coalitions, and push for systemic changes that prioritize public well-being over private profit.<sup style="color:#44A6B2;">7-9 </sup> It is important to understand that politics is not synonymous with Nepotism which should be distinguished from Meritocracy. Meritocracy is a system in which individuals are selected and promoted based on their abilities, skills, qualifications, and performance rather than personal connections, social status, or wealth. In governance, especially in the field of public health, meritocracy ensures that leadership and decision-making positions are occupied by competent professionals. Nepotism is the practice of favoring relatives, friends, or close associates for positions of power and influence, regardless of their qualifications. In public health governance, nepotism can lead to the appointment of unqualified individuals to key roles. Meritocratic governance helps ensure that policies and programs are effective, transparent, and accountable to the public, while nepotism undermines the efficiency, credibility, and ethical foundation of public health institutions, often leading to poor management, corruption, and reduced healthcare outcomes.
+
+Health diplomacy plays a critical role mainly in global health governance, facilitating international collaboration and negotiations on public health matters. It involves leveraging diplomatic strategies to address cross-border health challenges, such as pandemics, access to medicines, and health inequities. Countries with strong health diplomacy can shape global health policies and secure international support for their healthcare agendas.<sup style="color:#44A6B2;">10 </sup> These are additional requisites for public health professionals especially in developing countries. All the aforementioned soft skills are sine qua non for advancing public health.
+
+
+
+#### The Implications for Libya’s Healthcare Future
+
+Libya’s current trajectory, characterized by the dismantling of its robust public health infrastructure and the exclusion of lower-income populations from adequate healthcare, is deeply concerning. The transition towards a market-driven model without appropriate regulatory frameworks risks exacerbating health disparities and undermining public trust in the healthcare system. In addition to strengthening the relatively recently established Social Insurance Fund, a well-designed hybrid model, incorporating elements of both universal coverage and specialized private care, may offer a more balanced solution.<sup style="color:#44A6B2;">3 </sup>
+
+
+
+#### Conclusion
+
+Healthcare systems are not merely technical constructs but are deeply embedded in political and economic ideologies. The failures and successes of different models underscore the need for policy-driven, rather than purely market-driven, approaches to healthcare. As Libya navigates its healthcare reform, the lessons from both the United States, Oman and successful European models should serve as critical reference points. Ensuring equitable access to quality healthcare is not just a policy decision; it is a fundamental determinant of national stability and social well-being. Ultimately, public health is not just about medicine—it is about democracy itself.
+
+
+
+###### Disclosure Statement
+
+Adel El Taguri is an associate editor of the Journal of Best Available Evidence in Medicine.
+
+
+#### References
+
+1. Reinhart E. Public-health experts should be more political, not less. *Nature.* 2025 Mar;639(8054):278. doi:10.1038/d41586-025-00728-6.  
+2. World Health Organization. *The World Health Report 2000.* 2000. Available from: https://cdn.who.int/media/docs/default-source/health-financing/whr-2000.pdf?sfvrsn=95d8b803_1.  
+3. El Oakley RM, Ghrew MH, Aboutwerat AA, et al. Consultation on the Libyan health systems: towards patient-centred services. *Libyan J Med.* 2013;8:20233. doi:10.3402/ljm.v8i0.20233.  
+4. Beveridge W. *Social insurance and allied services* [Internet]. London: His Majesty’s Stationery Office; 1942. Available from: https://www.historyofsocial-work.org/1942_ENG_Beveridge/1942,%20Beveridge,%20social%20insurance%20and%20allied%20services.pdf.  
+5. Busse R, Blümel M. *Germany: health system review* [Internet]. Copenhagen: WHO Regional Office for Europe; 2014. Available from: https://iris.who.int/handle/10665/130246.  
+6. Quadagno J. Why the United States has no national health insurance: stakeholder mobilization against the welfare state, 1945–1996. *J Health Soc Behav.* 2004;45(Suppl):25–44.  
+7. Stiglitz JE. *The great divide: unequal societies and what we can do about them.* New York: W.W. Norton & Company; 2015.  
+8. Walt G, Gilson L. Reforming the health sector in developing countries: the central role of policy analysis. *Health Policy Plan.* 1994;9(4):353–70. doi:10.1093/heapol/9.4.353.  
+9. Hunter DJ. Health policy and management: in praise of political science; comment on "On health policy and management (HPAM): mind the theory-poli- cy-practice gap." Int J Health Policy Manag. 2015;4(6):391-4. doi: 10.15171/ijhpm.2015.62.
+10. Kickbusch I, Silberschmidt G, Buss P. Global health diplomacy: the need for new perspectives, strategic approaches and skills in global health. Bull World Health Organ. 2007 Mar;85(3):230-2.

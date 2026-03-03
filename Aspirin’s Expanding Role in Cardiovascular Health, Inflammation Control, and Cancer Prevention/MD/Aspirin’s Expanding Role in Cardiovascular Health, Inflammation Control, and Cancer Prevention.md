@@ -1,0 +1,24 @@
+
+To the Editor,  
+
+We read with great interest the article by Yang et al., titled “Aspirin prevents metastasis by limiting platelet TXA₂ suppression of T cell immunity,” highlighting aspirin’s potential in reducing cancer metastasis.<sup style="color:#44A6B2;">1 </sup> The suppression of TXA₂-mediated activation of the ARHGEF1 protein is critical in T cell receptor signaling. Such signaling suppression compromises T cell activation and immune surveillance, and facilitates cancer cell metastasis. By blocking TXA₂ production, aspirin reinstates effective T cell immune responses, thereby significantly decreasing metastatic potential.
+
+This promising effect of aspirin adds to its well-established multifaceted therapeutic effects that we wish to highlight in this letter. Aspirin has long been utilized in cardiovascular medicine primarily for its anti-thrombotic effects. By irreversibly inhibiting cyclooxygenase-1 (COX-1), it reduces the production of thromboxane A₂ (TXA₂), thus diminishing platelet aggregation and preventing thrombosis.<sup style="color:#44A6B2;">2 </sup> Clinically, aspirin significantly contributes to cardiovascular protection, acting both prophylactically in high-risk individuals and therapeutically in preventing coronary artery and stent thrombosis.
+
+At higher doses, aspirin also exhibits significant anti-inflammatory effects by inhibiting cyclooxygenase-2 (COX-2) enzymes, thereby reducing the production of pro-inflammatory prostaglandins and subsequently decreasing systemic inflammation, including levels of inflammatory markers such as C-reactive protein (CRP). Elevated CRP has been linked to enhanced tumorigenesis; therefore, aspirin’s capacity to mitigate chronic inflammation might indirectly impede cancer progression, over and above its beneficial role in cardiovascular prevention.<sup style="color:#44A6B2;">3 </sup> 
+
+In addition, recent evidence suggests aspirin use may significantly reduce the risk of colorectal cancer recurrence in some patients.<sup style="color:#44A6B2;">4 </sup> A 3-year randomized placebo-controlled trial revealed low-dose aspirin administration reduced recurrence rates by altering the PI3K pathway.<sup style="color:#44A6B2;">5 </sup> Furthermore, the anti-inflammatory and immunomodulatory properties of aspirin have proven useful in improving long-term outcomes in breast cancer survivors.<sup style="color:#44A6B2;">6 </sup> These findings show the role aspirin currently plays in oncology beyond metastasis.
+
+Despite its remarkable therapeutic potential, aspirin usage is not without risks. Potential adverse effects include gastrointestinal irritation, increased risk of bleeding, renal dysfunction, and hypersensitivity reactions, necessitating careful patient selection and dosage considerations. Given aspirin’s affordability and accessibility, it could represent an invaluable addition to the arsenal against cardiovascular disease, chronic inflammation, and cancer metastasis. However, comprehensive clinical trials are essential to determine optimal dosing and fully delineate aspirin’s risk–benefit profile.
+
+
+![Figure 1](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Aspirin%E2%80%99s%20Expanding%20Role%20in%20Cardiovascular%20Health%2C%20Inflammation%20Control%2C%20and%20Cancer%20Prevention/Figures/Figure_1.png)
+
+#### References
+
+1. Yang J, Yamashita-Kanemaru Y, Morris BI, Contursi A, Trajkovski D, Xu J, et al. Aspirin prevents metastasis by limiting platelet TXA₂ suppression of T cell immunity. *Nature.* 2025 Mar 5. [Epub ahead of print]. doi:10.1038/s41586-025-08626-7. PMID: 40044852.  
+2. Barnathan ES, Schwartz JS, Taylor L, Laskey WK, Kleaveland JP, Kussmaul WG, et al. Aspirin and dipyridamole in the prevention of acute coronary thrombosis complicating coronary angioplasty. *Circulation.* 1987 Jul;76(1):125–34. doi:10.1161/01.CIR.76.1.125. PMID: 2954724.  
+3. Kronish IM, Rieckmann N, Shimbo D, Burg M, Davidson KW. Aspirin adherence, aspirin dosage, and C-reactive protein in the first 3 months after acute coronary syndrome. *Am J Cardiol.* 2010 Oct 15;106(8):1090–4. doi:10.1016/j.amjcard.2010.06.018. PMID: 20920644; PMCID: PMC2967432.  
+4. American Society of Clinical Oncology (ASCO). New findings on aspirin and the risk of colorectal cancer recurrence. Available from: https://www.asco.org/about-asco/press-center/news-releases/new-findings-aspirin-and-risk-colorectal-cancer-recurrence.  
+5. Low-dose aspirin to reduce recurrence rate in colorectal cancer patients with PI3K pathway alterations: 3-year results from a randomized placebo-controlled trial. *American Society of Clinical Oncology.* Available from: https://meetings.asco.org/abstracts-presentations/242108.  
+6. Wang L, Qian L, Hu Z, Li J, Zhang Z, et al. Breast cancer survival and aspirin use. *NCBI PMC.* Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10769789/.  
